@@ -68,3 +68,5 @@ def reset_ball():
 
 # Start the game
 app.run()
+
+# Useless comment here
